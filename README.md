@@ -5,7 +5,7 @@ If you downoad  videos from Youtube, all file names will have URL code.. So I cr
 
 There is an important variable to start the program:
 
-*- path*: variable where you set you directory where you download from Youtube. Just copy the directory and set it.
+***path***: variable where you set you directory where you download from Youtube. Just copy the directory and set it.
 
 ### Notes
 
