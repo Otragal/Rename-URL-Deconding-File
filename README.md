@@ -7,7 +7,7 @@ After `git clone`, go to program directory and edit an important variable to sta
 
 ***path***: variable where you set the directory where you downloaded from Youtube. Just copy the directory and set it.
 
-Then, executing the `RenameURLDecodeFile.py`from your terminal.
+Then, in the program directory, executing the `RenameURLDecodeFile.py`from your terminal.
 > python RenameURLDecodeFile.py
 
 ### Notes
