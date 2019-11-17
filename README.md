@@ -1,11 +1,14 @@
 # Rename-URL-Deconding-File
 If you downoad  videos from Youtube, all file names will have URL code. So I created python3 program to raname all these files in directory to make easy in my life.
 
-## Variables
+## Running
 
-There is an important variable to start the program:
+After `git clone`, go to program directory and edit an important variable to start the program **path** in `RenameURLDecodeFile.py`.
 
 ***path***: variable where you set the directory where you downloaded from Youtube. Just copy the directory and set it.
+
+Then, executing the `RenameURLDecodeFile.py`from your terminal.
+> python RenameURLDecodeFile.py
 
 ### Notes
 
