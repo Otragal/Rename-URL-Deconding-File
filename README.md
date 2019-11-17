@@ -9,6 +9,8 @@ There is an important variable to start the program:
 
 ### Notes
 
+I created in Ubuntu 19.04 OS.
+
 To use Rename URL decode, I imported **os** and **urllib.parse**. I found some decode problens in **urlib.parse.unquote** that can't convert some code and will show *errors* during running. To resolve, you need edit yourself
 
 **ASCII Encoding Reference not possible convert**
